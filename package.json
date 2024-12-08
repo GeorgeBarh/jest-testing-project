@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeBarh/jest-testing-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeBarh/jest-testing-project/issues"
+  },
+  "homepage": "https://github.com/GeorgeBarh/jest-testing-project#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
